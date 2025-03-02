@@ -5,8 +5,8 @@
   <a href="https://github.com/chiitata">
     <img height="20" src="https://img.shields.io/github/followers/chiitata?label=follow&logo=github&style=flat" />
   </a>
-<!--   <a href="http://qiita.com/Keichan_15">
-<!--     <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/posts.svg" />
+<a href="http://qiita.com/Keichan_15">
+  <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/posts.svg" />
   </a> -->
   <a href="http://qiita.com/Keichan_15">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/contributions.svg" />
