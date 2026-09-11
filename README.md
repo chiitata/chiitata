@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Developer+in+Japan;Feel+free+to+contact+me+anytime!&v=2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Developer+in+Japan;Feel+free+to+contact+me+anytime!)](https://git.io/typing-svg)
 
-![commit svg](https://streak-stats.demolab.com?user=chiitata&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j)
-
+![commit svg](https://streak-stats.demolab.com?user=chiitata&theme=tokyonight&hide_border=false&date_format=%5BY%20%5DM%20j&v=2)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiitata/chiitata/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiitata/chiitata/output/github-snake.svg" />
